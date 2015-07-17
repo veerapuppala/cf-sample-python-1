@@ -1,0 +1,4 @@
+---
+applications:
+- name: a123
+  memory: 128M
