@@ -1,4 +1,5 @@
 ---
 applications:
-- name: a123
-  memory: 128M
+- name: cf-sample-python
+  command: python app.py
+  memory: 64M
