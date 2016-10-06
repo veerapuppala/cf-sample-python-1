@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-  return "cf-sample-python index page"
+  return "cf-sample-python welcome index page"
 
 if __name__ == "__main__":
   port = 8888
