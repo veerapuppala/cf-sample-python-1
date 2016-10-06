@@ -5,6 +5,6 @@ applications:
 # We have reserved a name/route for your app
 - name: cf-sample-python
   host: cf-sample-python
-  domain: kunal.domain.com.sitikantha.stacktest.io
+  domain: murali.domain.com.muralikoripally.stacktest.io
   command: python app.py
   memory: 64M
